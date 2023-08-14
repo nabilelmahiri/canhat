@@ -1,4 +1,4 @@
-# CAN HAT for Raspberry Pi Zero
+# CAN HAT for Raspberry Pi 
 
 Look! A hat! :tophat:
 
